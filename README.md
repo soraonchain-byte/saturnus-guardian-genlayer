@@ -24,16 +24,16 @@ The contract is written in **Python** using GenLayer's latest Intelligent Contra
 ---
 
 ## 🔗 Proof of Deployment (Bradbury Testnet)
-<img width="1278" height="642" alt="image" src="https://github.com/user-attachments/assets/a9f2c242-4e64-489b-ad35-b305aa39329f" />
 
 To ensure full transparency and verify the project's technical execution, here are the on-chain details:
 
 - **Deployment Status**: ✅ Execution Finished (GenVM Verified)
-- **Transaction Hash**: `0xa28598644cd0d9a73e76c8b788eb2d413ec926791704cc410f3d0dc6f40ab3fc`
+- **Transaction Hash**: `0x9abffd613680ca7f73fec4a765986ee6d75faa72e6d3fa0e625199921c480283`
 - **Network**: GenLayer Bradbury Testnet
 
 ### Technical Evidence (GenLayer Studio):
-![Deployment Confirmation](https://path-to-your-uploaded-image.png)
+<img width="1280" height="630" alt="Hackathon-submission" src="https://github.com/user-attachments/assets/6673936e-de82-468f-8969-06bf69d74c20" />
+
 > *The image above confirms the successful execution of the Saturnus Guardian Intelligent Contract v0.1.2 within the GenVM environment.*
 ### Features Implemented (v0.1.2):
 - [x] **Dynamic Security Posture**: Admin-controlled security state (`update_security_posture`).
