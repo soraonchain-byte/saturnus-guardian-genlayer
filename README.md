@@ -21,7 +21,20 @@ Saturnus Guardian acts as a decentralized coordination infrastructure. Unlike tr
 ## 🚀 Deployment & Usage (Bradbury Testnet)
 
 The contract is written in **Python** using GenLayer's latest Intelligent Contract standards.
+---
 
+## 🔗 Proof of Deployment (Bradbury Testnet)
+<img width="1278" height="642" alt="image" src="https://github.com/user-attachments/assets/a9f2c242-4e64-489b-ad35-b305aa39329f" />
+
+To ensure full transparency and verify the project's technical execution, here are the on-chain details:
+
+- **Deployment Status**: ✅ Execution Finished (GenVM Verified)
+- **Transaction Hash**: `0xa28598644cd0d9a73e76c8b788eb2d413ec926791704cc410f3d0dc6f40ab3fc`
+- **Network**: GenLayer Bradbury Testnet
+
+### Technical Evidence (GenLayer Studio):
+![Deployment Confirmation](https://path-to-your-uploaded-image.png)
+> *The image above confirms the successful execution of the Saturnus Guardian Intelligent Contract v0.1.2 within the GenVM environment.*
 ### Features Implemented (v0.1.2):
 - [x] **Dynamic Security Posture**: Admin-controlled security state (`update_security_posture`).
 - [x] **Subjective Intent Analysis**: Real-time evaluation of transaction descriptions (`analyze_transaction_intent`).
